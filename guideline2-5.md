@@ -29,3 +29,14 @@ https://www.w3.org/TR/WCAG21/#input-modalities
 jsのclickイベントはup-eventに実行される一例
 up-eventの際に発火するようにするとそのクリック対象の要素からずらした後に離すと発火しない
 
+### Success Criterion 2.5.3 Label in Name
+**A** ラベルのついていて画像だろうがテキストだろうが文字を含んでいるuser interface componentsだったら、そのname(htmlタグのname属性とかコンピュータにそのコンポーネントを表すものとして伝わるテキスト)がラベルとして視覚的に表現されているものと同じでないといけない
+
+### Success Criterion 2.5.4 Motion Actuation
+**A** デバイスのmotion(動き)やユーザーのmotionによって操作される機能は、user interface componentsでも操作できるようにしないといけない、加えてmotionへの反応は不意の誤操作を防ぐためにオフにできなければいけない。ただし、これは以下の場合は除く
+- Suppoted Interface: そのmotionがアクセシビリティについてサポートされたデバイスを通して操作できる場合
+- essential: 機能としてmotionが絶対に必要な場合
+
+例として挙げるとLINEのフルフルによる友達交換とかジャイロスコープによる操作とかがある
+
+これによってデバイスをうまく動かせない人とかでも機能を操作できるようになるよね
