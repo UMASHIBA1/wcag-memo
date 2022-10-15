@@ -4,6 +4,8 @@ https://www.w3.org/TR/WCAG21/#understandable
 ## Guideline 3.1 Readable
 https://www.w3.org/TR/WCAG21/#readable
 
+ユーザーインターフェースの情報と操作が理解可能なこと
+
 ### Success Criterion 3.1.1 Language of Page
 **A** そのWebページで使われているデフォルトの言語(日本語とか英語とか)がprogrammatically determinedでないといけない
 
