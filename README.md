@@ -1,2 +1,27 @@
 # wcag-memo
-またwcag読みだしたのでメモ&amp;テスト用
+またwcag読みだしたのでメモ
+
+## Guideline1 Perceivable(知覚可能)
+-  [1.1 Text Alternative(代替テキスト)](/guideline1-1.md)
+-  [1.2 Time-based Media(時間によって変わるメディア)](/guideline1-2.md)
+- [1.3 Adaptable(適合可能、様々な方法で見れるコンテンツを作る)](/guideline1-3.md)
+- [1.4 Distinguishable(識別・認識可能)](/guideline1-4.md)
+## Guideline2 Operable(操作可能)
+- [2.1 Keyboard Accessible](/guideline2-1.md)
+- [2.2 Enough Time](/guideline2-2.md)
+- [2.3 Sezures and Physical Reactions(コンテンツを発作などが起こってしまうと知られているデザインで作らない)](/guideline2-3.md)
+- [2.4 Navigable(コンテンツのどこにいるかわかるようにする)](/guideline2-4.md)
+- [2.5 Input Modalities(キーボード以外の入力でも使いやすく)](/guideline2-5.md)
+## Guideline3 Understandable(理解可能)
+- [3.1 Readable(情報と操作を理解可能にする)](/guideline3-1.md)
+- [3.2 Predictable(想定しやすい方法で作る)](/guideline3-2.md)
+- [3.3 Input Assistance(誤操作を誘発せず、正せるようにする)](/guideline3-3.md)
+## Guideline4 Robust(堅牢性)
+- [4.1 Compatible(互換性、様々なUAで使えるように)](/guideline4-1.md)
+
+## Guideline5 Conformance(適合性)
+- [5.1 Interpreting Normative Requirements(ガイドラインの解釈について)](/guideline5-1.md)
+- [5.2 Conformance Requirements(適合しているというためには)](/guideline5-2.md)
+- [5.3 Conformance Claims(Optional)適合性を主張するには](/guideline5-3.md)
+- [5.4 Statement of Partial Conformance - ThirdParty Content(外部リソースを含んだコンテンツの部分適合性の声明)](/guideline5-4.md)
+- [5.5 Statement of Partial Conformance - Language(言語に起因する部分適合性の声明)](/guideline5-5.md)
